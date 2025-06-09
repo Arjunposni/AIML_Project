@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1EY0MGLkH92ezD2cb4qRVgS3VfFUxDHBp
 """
 
-!npm install localtunnel
-
 from google.colab import drive
 drive.mount('/content/drive')
 
