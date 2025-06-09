@@ -1,0 +1,4 @@
+﻿streamlit
+tensorflow
+gdown
+opencv-python
