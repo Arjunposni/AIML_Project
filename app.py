@@ -43,6 +43,3 @@ drive.mount('/content/drive')
 #     prediction = predict_disease(temp_path)
 #     st.success(f"Predicted Disease: **{prediction}**")
 #
-
-!streamlit run app.py &>/content/logs.txt &
-!npx localtunnel --port 8501
